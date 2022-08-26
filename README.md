@@ -6,8 +6,8 @@ Please contribute to this page if you have any websites you'd like to add!
 | - |
 | [NVIDIA](https://www.nvidia.com/en-us/privacy/start/) |
 | [Firefox](https://accounts.firefox.com/settings/delete_account) |
-| []() |
-| []() |
+| [Pandora](https://www.pandora.com/settings/info) |
+| [PayPal](https://www.paypal.com/myaccount/privacy/data/deletion) |
 | []() |
 | []() |
 | []() |
