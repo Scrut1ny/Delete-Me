@@ -9,7 +9,7 @@ Please contribute to this page if you have any websites you'd like to add!
 | [Pandora](https://www.pandora.com/settings/info) |
 | [PayPal](https://www.paypal.com/myaccount/privacy/data/deletion) |
 | [shift.gearboxsoftware](https://shift.gearboxsoftware.com/account/other) |
-| []() |
+| [Uber](https://myprivacy.uber.com/privacy/deleteyouraccount) |
 | []() |
 | []() |
 | []() |
