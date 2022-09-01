@@ -10,4 +10,11 @@ Please contribute to this page if you have any websites you'd like to add!
 | [PayPal](https://www.paypal.com/myaccount/privacy/data/deletion) |
 | [shift.gearboxsoftware](https://shift.gearboxsoftware.com/account/other) |
 | [Uber](https://myprivacy.uber.com/privacy/deleteyouraccount) |
+| [Brainly](https://brainly.com/users/confirm_account_delete) |
+| []() |
+| []() |
+| []() |
+| []() |
+| []() |
+| []() |
 | []() |
