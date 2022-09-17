@@ -12,7 +12,7 @@ Please contribute to this page if you have any websites you'd like to add!
 | [Uber](https://myprivacy.uber.com/privacy/deleteyouraccount) |
 | [Brainly](https://brainly.com/users/confirm_account_delete) |
 | [Amazon](https://www.amazon.com/privacy/data-deletion) |
-| []() |
+| [Instagram](https://www.instagram.com/accounts/remove/request/permanent/) |
 | []() |
 | []() |
 | []() |
